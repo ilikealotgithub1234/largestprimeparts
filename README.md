@@ -1,6 +1,8 @@
 # largestprimeparts
 versions of the largest prime
 
-Juicy - raw with commas
+Juicy - raw with commas every 3
 
-Most - raw no commas
+Moist - raw no commas
+
+Delicious - raw with spaces every 3
